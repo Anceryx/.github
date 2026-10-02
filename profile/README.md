@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/anceryx-banner.png" width="100%" alt="Anceryx banner">
+</p>
+
+<p align="center">
   <strong>Anceryx</strong>
 </p>
 
